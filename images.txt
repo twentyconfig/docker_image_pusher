@@ -1,1 +1,2 @@
 rabbitmq:3.8-management
+hello-world
