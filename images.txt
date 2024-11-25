@@ -1,1 +1,1 @@
-busybox
+mysql:5.7
