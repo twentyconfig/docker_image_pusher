@@ -1,1 +1,1 @@
-redis-sentinel
+openjdk:8u102
