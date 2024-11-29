@@ -1,1 +1,1 @@
-openjdk:8u102
+uifd/ui-for-docker
