@@ -1,1 +1,3 @@
-portainer/portainer-ce
+google/cadvisor
+tutum/influxdb:0.9
+grafana/grafana
