@@ -1,1 +1,1 @@
-grafana/grafana
+tutum/influxdb:0.9
