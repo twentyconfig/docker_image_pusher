@@ -1,1 +1,1 @@
-uifd/ui-for-docker
+portainer/portainer-ce
