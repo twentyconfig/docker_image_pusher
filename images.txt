@@ -1,1 +1,1 @@
-tutum/influxdb:0.9
+tutum/influxdb
