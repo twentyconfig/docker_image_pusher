@@ -1,1 +1,1 @@
-registry
+gitlab/gitlab-ce
