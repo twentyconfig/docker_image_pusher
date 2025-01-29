@@ -1,1 +1,1 @@
-sonarqube:10.8-community
+elasticsearch:7.12.1
